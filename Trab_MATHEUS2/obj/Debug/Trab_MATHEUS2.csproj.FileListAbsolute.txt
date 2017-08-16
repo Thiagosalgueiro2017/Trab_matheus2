@@ -1,0 +1,2 @@
+c:\users\thiago.lima\documents\visual studio 2015\Projects\Trab_MATHEUS2\Trab_MATHEUS2\bin\Debug\Trab_MATHEUS2.exe.config
+C:\Users\thiago.lima\Desktop\GitHub\Trab_matheus2\Trab_MATHEUS2\bin\Debug\Trab_MATHEUS2.exe.config
